@@ -7,7 +7,7 @@
 #include <prism/cgal/QP.hpp>
 
 #include "prism_quality.hpp"
-
+#include <optional>
 RowMatd prism::one_ring_volumes(
     const std::vector<Vec3d>& base, const std::vector<Vec3d>& mid,
     const std::vector<Vec3d>& top, const std::vector<Vec3i>& F,

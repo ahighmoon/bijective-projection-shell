@@ -1,3 +1,4 @@
+#include <optional>
 #ifndef PRISM_CGAL_AABB_HPP
 #define PRISM_CGAL_AABB_HPP
 
